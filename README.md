@@ -6,4 +6,3 @@ Egypt FWD is an 18-month scholarship program, providing the learners with an int
   3. Data Wrangling
 
 **Link of Track :** https://egfwd.com/specializtion/professional-data-analysis/
-<img src = 'https://drive.google.com/drive/folders/1nQuj9XgMqmIZLHhY3ohjrjOHnyA5ATP0'>
